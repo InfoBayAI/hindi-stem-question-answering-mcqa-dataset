@@ -1,4 +1,4 @@
-# Sample_QA_STEM_Hindi
+# Hindi STEM Question Answering MCQA Dataset
 **Dataset Description:**
 
 This dataset is a **large-scale collection of Hindi STEM Question Answering (QA) data**, designed to support the development of advanced NLP systems and AI models for educational understanding and reasoning in Hindi.
